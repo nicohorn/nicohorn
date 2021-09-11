@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡ Fun fact: ... I worked as a barista for four years ☕ 
+⚡ Fun fact: I worked as a barista for four years ☕ 
