@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hello, I'm Nico 😁
+### CS Graduate, full stack developer and educator
+ 📫 How to reach me: contact@nicohorn.com
+ 👯 I’m looking to collaborate on open source projects :)
+
+⚡ Fun fact: I worked as a barista for four years ☕ 
+ Visit my personal website for more info! ➡️ https://nicohorn.com
 
 <!--
 **nicohorn/nicohorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡ Fun fact: I worked as a barista for four years ☕ 
+
