@@ -1,7 +1,9 @@
 # Hello, I'm Nico 😁
 ### CS Graduate, full stack developer and educator
  📫 How to reach me: contact@nicohorn.com
+ 
  👯 I’m looking to collaborate on open source projects :)
+ 
  ⚡ Fun fact: I worked as a barista for four years ☕ 
  
  Visit my personal website for more info! ➡️ https://nicohorn.com
