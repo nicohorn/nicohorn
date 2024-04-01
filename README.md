@@ -1,5 +1,5 @@
 # Hello, I'm Nico 😁
-### CS Graduate, full stack developer and educator
+### Systems engineer and professor
  📫 How to reach me: contact@nicohorn.com
  
  👯 I’m looking to collaborate on open source projects :)
