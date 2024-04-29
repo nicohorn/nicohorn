@@ -1,4 +1,4 @@
-# Hello, I'm Nico 😁
+# Nico Horn
 ### Systems engineer and professor
  📫 How to reach me: contact@nicohorn.com
  
