@@ -6,9 +6,8 @@
 Technology professional with a proven track record in full-stack software engineering and a passion for teaching the next generation of tech talent. Robust knowledge in systems engineering, computer science, and networking, delivering cutting-edge solutions for my clients.
  
 ### Core Competencies:
-
-Full-Stack Development
-Systems Architecture
-Computer Science Principles
-Networking Technologies
-Educational Leadership
+- Full-Stack Development
+- Systems Architecture
+- Computer Science Principles
+- Networking Technologies
+- Educational Leadership
