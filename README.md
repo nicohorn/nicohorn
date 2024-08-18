@@ -1,7 +1,7 @@
 # Nico Horn
 ## Systems engineer and professor
- 📫 How to reach me: contact@nicohorn.com
+👨‍💻 Full-Stack Software Engineer | 🎓 Systems Engineering Graduate | 👨‍🏫 University Professor
+📧 [My email](mailto:contact@nicohorn.com) | 🌐 [My website](https://nicohorn.com)
 
- I'm currently working as a full-stack software engineer. I graduated as a *systems engineer* with strong knowledge in *computer science and networking*. I also teach *programming* and *software engineering* at River Plate Adventist University.
+Technology professional with a proven track record in full-stack software engineering and a passion for teaching the next generation of tech talent. Robust knowledge in systems engineering, computer science, and networking, delivering cutting-edge solutions for my clients and inspire my students.
  
-### Visit my personal website for more info! ➡️ https://nicohorn.com
