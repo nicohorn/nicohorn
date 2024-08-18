@@ -34,7 +34,7 @@ Technology professional with a proven track record in full-stack software engine
 ### 🏆 Key Achievements
 
 - Reduced application load time by 40% through optimization of database queries and implementation of caching strategies.
-- Mentored over 100 students, with 85% securing positions in top tech companies within 6 months of graduation.
+- Mentored over 100 students, helping (most of) them successfully complete academic projects and get their first job.
 - Contributed to open-source projects, gaining recognition for innovative solutions in web development frameworks.
 
 ### 📚 Continuous Learning
