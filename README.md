@@ -7,11 +7,11 @@ Technology professional with a proven track record in full-stack software engine
  
 ### 🚀 Core Competencies
 
-- Full-Stack Development
-- Systems Architecture
-- Computer Science Principles
-- Networking Technologies
-- Educational Leadership
+- Full stack development
+- Systems design and architecture
+- Computer science fundamentals
+- Networking and security
+- University-Level teaching
 
 ### 💼 Professional Highlights
 
@@ -23,9 +23,9 @@ Technology professional with a proven track record in full-stack software engine
 
 | Category | Technologies |
 |----------|--------------|
-| Languages | JavaScript (TypeScript), Python, C#, Haskell, Bash |
+| Languages | JavaScript (TypeScript), Python, C#, PHP, Bash |
 | Frontend | React, Next.js, TipTap |
-| Backend | Node.js, Express.js, .NET |
+| Backend | Node.js, Express.js, .NET, Laravel |
 | Databases | MongoDB, PostgreSQL, Supabase |
 | ORM/Query Builders | Prisma, Drizzle ORM, TanStack Query |
 | DevOps | Linux, Server Management, Network Management (DNS, routing, firewall) |
@@ -47,4 +47,4 @@ Always exploring new technologies and methodologies to stay at the forefront of 
 
 ---
 
-💡 Open to exciting opportunities in software engineering leadership roles and technical education initiatives. Let's connect and explore how we can create innovative solutions together!
+💡 Open to opportunities in software engineering leadership roles and technical education initiatives.
